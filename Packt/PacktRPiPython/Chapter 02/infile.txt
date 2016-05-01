@@ -1,0 +1,1 @@
+This is a short message to test our file encryption program.
